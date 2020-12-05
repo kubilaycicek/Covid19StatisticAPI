@@ -13,3 +13,8 @@ public static final String API_KEY = "your_api_key";
 From this page.
 
 ![apikey](https://user-images.githubusercontent.com/44985849/101262603-1c344b80-3751-11eb-93a3-5a191085e404.PNG)
+
+## Using Tools & Technologies 
+* Spring Boot
+* Lombok 
+* Java 8
