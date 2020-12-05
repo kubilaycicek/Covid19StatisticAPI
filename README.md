@@ -18,3 +18,12 @@ From this page.
 * Spring Boot
 * Lombok 
 * Java 8
+
+## Api Routes
+
+| Route  | HTTP Verb  |Description   |
+|---|---|---|
+| http://localhost:8081/totalData  |`GET`  | Get Total Data
+| http://localhost:8081/countriesData  |`GET`  | Get Countries Data
+| http://localhost:8081/coronaNews |`GET`   | Get Corona News  Data
+| http://localhost:8081/continentData  |`GET`  | Get Continent Data
