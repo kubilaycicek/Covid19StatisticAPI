@@ -18,6 +18,7 @@ From this page.
 * Spring Boot
 * Lombok 
 * Java 8
+* Redis
 
 ## Api Routes
 
