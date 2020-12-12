@@ -5,7 +5,7 @@ import lombok.ToString;
 
 @Data
 @ToString
-public class CountryData {
+public class CountryData  extends BaseData {
     String country;
     String totalCases;
     String newCases;

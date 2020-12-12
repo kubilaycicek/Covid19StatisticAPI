@@ -5,7 +5,7 @@ import lombok.ToString;
 
 @Data
 @ToString
-public class CoronaNewsData {
+public class CoronaNewsData  extends BaseData {
     String key;
     String url;
     String description;

@@ -14,6 +14,4 @@ public class Constants {
     public static final String COUNTRY_DATA_URL = COVID_API_BASE_URL + "countriesData";
     public static final String CORONA_NEWS_DATA_URL = COVID_API_BASE_URL + "coronaNews";
     public static final String CONTINENT_DATA_URL = COVID_API_BASE_URL + "continentData";
-
-
 }

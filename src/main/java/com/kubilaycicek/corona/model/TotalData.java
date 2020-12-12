@@ -5,7 +5,7 @@ import lombok.ToString;
 
 @Data
 @ToString
-public class TotalData {
+public class TotalData extends BaseData {
     private String totalDeaths;
     private String totalCases;
     private String totalRecovered;
